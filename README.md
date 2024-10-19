@@ -7,7 +7,7 @@
 ![Stars](https://img.shields.io/github/stars/SultanAyubi360/Whatsapp-Status-Saver)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SultanAyubi360/Whatsapp-Status-Saver)
 ![pv](https://pageview.vercel.app/?github_user=Whatsapp-Status-Saver)
-
+![WhatsApp Status Saver](https://img.shields.io/badge/WhatsApp-Status%20Saver-brightgreen)
 
 </div>
 
