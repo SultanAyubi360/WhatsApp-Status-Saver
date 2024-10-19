@@ -2,6 +2,16 @@
   
 <h4 align="center">Status Saver App helps you save Video, Photo from Whatsapp & Whatsapp Business.</h4>
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/SultanAyubi360/Whatsapp-Status-Saver)
+![GitHub last commit](https://img.shields.io/github/last-commit/SultanAyubi360/Whatsapp-Status-Saver)
+![pv](https://pageview.vercel.app/?github_user=Whatsapp-Status-Saver)
+
+
+</div>
+
+
 ## Overview
 The WhatsApp Status Saver App is designed to make it easy for you and your friends to download and save WhatsApp statuses directly to your device. This app was created to avoid the hassle of constantly being asked to share your WhatsApp statuses with others. With just a few taps, you can now save any status you like and keep it forever!
 This Story Saver & Downloader - Social Saver, can help you save photos and videos in simple steps.Looking for an app that can easily download or repost images and videos without logging in .This download and repost app is definitely what you want, and would like to instake it.
