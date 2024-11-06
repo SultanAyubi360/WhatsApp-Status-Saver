@@ -73,8 +73,16 @@ According to the Whatsapp user copyright procedures, you need to get permission 
 We are not responsible for any intellectual property violation that results from an unauthorized repost of a video or photo fetched from social media using Story Saver & Downloader .
 Social Saver app is not associated with Whatsapp
 
+## :heart: Support My Projects 
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
+
+* Starring: You may give a star or share the projects you like.
+
 ### Find this useful? ❤️
+
 Support it by joining stargazers to this. ⭐
 
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+
 
