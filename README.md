@@ -24,6 +24,11 @@ This app allow you to download images, GIF and Video status from your WA or WA B
 
 Experience a range of powerful features designed to enhance your Status Saver app:
 
+- **Easy Status Downloading:** Download any WhatsApp status (image or video) directly to your device.
+- **User-Friendly Interface:** Simple and intuitive design for a seamless experience.
+- **Share Status:** Quickly share downloaded statuses with others.
+- **No Login Required:** Direct access to your saved statuses without needing to log in.
+- **Built with Kotlin:** The app is developed using Kotlin, ensuring robust and modern Android development practices.
 - **WhatsApp Status Saver:** Save your favorite WhatsApp statuses effortlessly.
 - **WhatsApp Business Status Saver:** Seamlessly save statuses from WhatsApp Business.
 - **Full Screen Previews:** Enjoy immersive previews for both videos and images.
