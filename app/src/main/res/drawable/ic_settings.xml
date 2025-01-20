@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Outer Gear Outline with Filled Area Between Gear and Center -->
+    <path
+        android:pathData="M19.14,12.94c0.04,-0.3 0.06,-0.6 0.06,-0.94s-0.02,-0.64 -0.06,-0.94l2.03,-1.58c0.18,-0.14 0.23,-0.4 0.12,-0.61l-1.92,-3.32c-0.11,-0.21 -0.36,-0.3 -0.59,-0.24l-2.39,0.96c-0.5,-0.38 -1.03,-0.7 -1.63,-0.94L14.5,2.81C14.5,2.59 14.31,2.44 14.09,2.44h-4.18c-0.22,0 -0.41,0.15 -0.45,0.37l-0.39,2.52c-0.6,0.24 -1.14,0.56 -1.63,0.94l-2.39,-0.96c-0.23,-0.06 -0.48,0.03 -0.59,0.24L2.71,9.81c-0.11,0.21 -0.07,0.47 0.12,0.61l2.03,1.58c-0.04,0.3 -0.06,0.6 -0.06,0.94s0.02,0.64 0.06,0.94l-2.03,1.58c-0.18,0.14 -0.23,0.4 -0.12,0.61l1.92,3.32c0.11,0.21 0.36,0.3 0.59,0.24l2.39,-0.96c0.5,0.38 1.03,0.7 1.63,0.94l0.39,2.52c0.04,0.22 0.23,0.37 0.45,0.37h4.18c0.22,0 0.41,-0.15 0.45,-0.37l0.39,-2.52c0.6,-0.24 1.14,-0.56 1.63,-0.94l2.39,0.96c0.23,0.06 0.48,-0.03 0.59,-0.24l1.92,-3.32c0.11,-0.21 0.07,-0.47 -0.12,-0.61l-2.03,-1.58ZM12,14.5a2.5,2.5 0,1 1,0 -5 2.5,2.5 0,0 1,0 5Z"
+        android:fillColor="#000"
+        android:strokeColor="#000"
+        android:strokeWidth="1.5"
+        android:fillType="nonZero"/>
+
+    <!-- Transparent Center -->
+    <path
+        android:pathData="M12,12m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0"
+        android:fillColor="@android:color/transparent"/>
+</vector>
+
+
+
+

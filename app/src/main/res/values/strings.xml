@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WA Status Saver</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status">Status</string>
+    <string name="b_status">B Status</string>
+    <string name="settings">Settings</string>
+    <string name="saved">Saved</string>
+    <string name="save">Save</string>
+    <string name="whatsapp">WhatsApp Status</string>
+    <string name="whatsapp_w4b">WhatsApp Business Status</string>
+</resources>

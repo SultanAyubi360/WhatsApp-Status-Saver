@@ -1,0 +1,53 @@
+[versions]
+agp = "8.4.0"
+designVersion = "28.0.0"
+documentfile = "1.0.1"
+fragmentKtx = "1.8.3"
+glide = "4.16.0"
+integrity = "1.4.0"
+kotlin = "1.9.24"
+coreKtx = "1.13.1"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.9.2"
+constraintlayout = "2.1.4"
+media3Exoplayer = "1.4.1"
+storage = "1.5.5"
+swiperefreshlayout = "1.2.0-alpha01"
+zoomage = "1.3.1"
+workRuntime = "2.7.1"  # New version for WorkManager
+multidex = "2.0.1"      # New version for Multidex
+
+
+[libraries]
+androidx-activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activity" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-documentfile = { module = "androidx.documentfile:documentfile", version.ref = "documentfile" }
+androidx-fragment-ktx = { module = "androidx.fragment:fragment-ktx", version.ref = "fragmentKtx" }
+androidx-media3-exoplayer = { module = "androidx.media3:media3-exoplayer", version.ref = "media3Exoplayer" }
+androidx-media3-exoplayer-dash = { module = "androidx.media3:media3-exoplayer-dash", version.ref = "media3Exoplayer" }
+androidx-media3-ui = { module = "androidx.media3:media3-ui", version.ref = "media3Exoplayer" }
+androidx-swiperefreshlayout = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version.ref = "swiperefreshlayout" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+integrity = { module = "com.google.android.play:integrity", version.ref = "integrity" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+storage = { module = "com.anggrayudi:storage", version.ref = "storage" }
+support-design = { module = "com.android.support:design", version.ref = "designVersion" }
+zoomage = { module = "com.jsibbold:zoomage", version.ref = "zoomage" }
+androidx-work-runtime = { module = "androidx.work:work-runtime", version.ref = "workRuntime" }  # New WorkManager dependency
+androidx-multidex = { module = "androidx.multidex:multidex", version.ref = "multidex" }  # New Multidex dependency
+
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+
